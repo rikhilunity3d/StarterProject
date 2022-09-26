@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9087f62262f418596ff882326ef681, type: 3}
+  m_Name: HalloweenLevelSetUpScriptableObject
+  m_EditorClassIdentifier: 
+  levelName: Halloween
+  levelBg: {fileID: 0}
+  isLevelLock: 1
+  widthDivide: 28
+  heightDivide: 40
+  changeableSO:
+  - {fileID: 11400000, guid: 34a5f1c8f8c9a4cec869ba416a7ed41a, type: 2}
+  - {fileID: 11400000, guid: e2e83b31095254076b95bbf8b44e5c73, type: 2}
+  - {fileID: 11400000, guid: 44db4849ad52340f6bcd7624cd682eb2, type: 2}
+  - {fileID: 11400000, guid: 03d21e6238f2a47d9ae212a64300fac7, type: 2}
+  - {fileID: 11400000, guid: c746f8cc1210c45669442c99a55a8b00, type: 2}
+  - {fileID: 11400000, guid: 19775083fa6c745ba92929a0e8c1b17a, type: 2}
+  - {fileID: 11400000, guid: ea25cdd6929b14aaabf6bb5605f3cd32, type: 2}
+  - {fileID: 11400000, guid: 801d678defc5c46bf87312e2e7e3cb55, type: 2}
+  - {fileID: 11400000, guid: c56a9cdfa609d405d9dd9d3734f5025f, type: 2}
+  - {fileID: 11400000, guid: b9009f2797d2b4088872a8220964ef18, type: 2}
+  - {fileID: 11400000, guid: 97a01a73fb5ab47f7a241c8e6dd46e35, type: 2}
+  - {fileID: 11400000, guid: 8e97a50e0e14f4739ac3d077ff47ae23, type: 2}
